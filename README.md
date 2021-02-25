@@ -35,8 +35,16 @@
 3. 알고리즘 새 문제 풀기 / half ok
 
 2021/02/25
-1. 알고리즘 마무리하기
-2. https://min-it.tistory.com/?page=6 따라하기 (총 10개 있음)
-3. 알고리즘 새 문제 풀기
+1. 알고리즘 마무리하기 / no ok
+2. https://min-it.tistory.com/?page=6 공부하기 (총 10개 있음) / 1개 ok
+3. 알고리즘 새 문제 풀기 / no
 4. html/css강의 - https://www.inflearn.com/course/html-css-%EA%B0%95%EC%A2%8C-codesquad#
-                - https://www.inflearn.com/course/html-%EA%B8%B0%EB%B3%B8# 조금씩 들어보고 결정해서 듣기.
+                - https://www.inflearn.com/course/html-%EA%B8%B0%EB%B3%B8# 조금씩 들어보고 결정해서 듣기. >> spring 웹 개발 기초까지
+               
+
+2021/02/26
+1. 알고리즘 마무리하기
+2.  https://min-it.tistory.com/?page=6 2개 공부하기
+3.  스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 - 회원관리예제까지
+                
+     
