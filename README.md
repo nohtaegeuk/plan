@@ -58,7 +58,7 @@
 3. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 / ok
 
 2021/02/29
-1. 백준 알고리즘 풀기
-2. https://min-it.tistory.com/?page=6 1개 공부하기
-3. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 / spring 빈까지
+1. 백준 알고리즘 풀기 / half ok
+2. https://min-it.tistory.com/?page=6 1개 공부하기 / ok
+3. 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 / spring 빈까지 / half ok
      
